@@ -1,0 +1,65 @@
+body {
+    background-color: #040303c2;
+    text-align: center;
+
+    
+}
+
+
+.p1andp2 {
+    
+        font-family: cursive;
+        color: #0bd590;
+        width: 200px;
+}
+
+
+h1 {
+    font-style: italic;
+    font-weight: 600;
+    font-family: cursive;
+    font-size: 100px;
+    color: #0bd590;
+    margin:10px auto ;
+}
+
+.firstPlayer {
+    background-color: #ff0000a8;
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin:auto 180px;
+    border-radius: 10px;
+
+}
+
+.secondPlayer {
+    background-color: #ff0000a8;
+    text-align: center;
+    width: 150px;
+    height: 180px;
+    margin:auto 180px;
+    border-radius: 10px;
+}
+.mainTable {
+    margin: auto;
+}
+
+.footer {
+    text-align: center;
+    clear: both;
+    color: antiquewhite;
+    margin-top: 30px;
+    font-size: 30px;
+    
+  
+}
+
+.imgsize {
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
